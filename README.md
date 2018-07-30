@@ -1,4 +1,5 @@
-# pressbutton
+# GetSlotItemExtended
 Module for the Macro/Keybinding modulation for minecraft/liteloader
 
-Adds an pressbutton command
+- Adds GetSlotItemExt
+- Adds GetSlotItemEnchants
